@@ -1,0 +1,2 @@
+# tp_go_grpcsimple
+go语言的简单grpc客户端服务端模板,有完整的连接和负载均衡相关设置但不包括拦截器和channelz这些特性
